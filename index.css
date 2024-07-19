@@ -98,7 +98,7 @@ ul{
     display: flex;
     justify-content:center;
     gap: 50px;
-   
+    margin: 40px;
 }
 #div2{
     margin: 100px;
@@ -113,10 +113,80 @@ ul{
     border-radius: 10px;
     font-family: "Poppins", sans-serif;
     padding: 30px;
+    height: 310px;
 }
 #div5{
     display: flex;
     justify-content: center;
+}
+#botao4{
+    margin: 50px;
+    margin-right: 100px;
+    transform: rotate(180deg);
+    background-color: transparent;
+    border: transparent;
+    width: 50px;
+    cursor: pointer;
+}
+#botao5{
+margin: 50px;
+margin-left: 100px;
+background-color: transparent;
+border: transparent;
+width: 50px;
+cursor: pointer;
+}
+#div6{
+    display: flex;
+}
+#flesha{
+    width: 25px;
+    margin: 10px;
+        
+}
+#alinhamento5{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin: 130px;
+}
+#alinhamento6{
+    display: flex;
+    justify-content: center;
+    margin: -150px;
+}
+#botao6{
+    background-color: #1A202C;
+    color: white;
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#div7{
+    background-color: #CED7E4;
+    padding: 14px;
+    width: 220px;
+    border-radius: 10px;
+}
+#div8{
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+}
+#div9{
+    display: flex;
+    flex-direction: column;
+    background-color: #CED7E4;
+    border-radius: 15px;
+    padding: 10px;
+}
+#div10{
+    display: flex;
+}
+
+#seta1,#seta2{
+    width: 50px;
 }
 #div4{
     padding: 10px;
@@ -130,6 +200,9 @@ ul{
 #para3{
     width:250px ;
 }
+#para4{
+    width: 250px;
+}
 #botao3{
     width: 200px;
     margin: 0 auto;
@@ -137,6 +210,35 @@ ul{
 #img2{
     margin: 80px;
     width: 200px;
+}
+#img3{
+    width: 45px;
+    height: 50px;
+    margin: 2px;
+    gap: 5px;
+}
+#alinhamento7{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+#img4{
+    width: 12px;
+    height: 12px;
     
 }
-
+#div11{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+#div12{
+    display:flex;
+    gap: 5px;
+}
+#titu4{
+    width: 100px;
+}
+#titu5{
+    width: 200px;
+}
