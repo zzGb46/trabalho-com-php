@@ -1,14 +1,24 @@
-<section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <section>
             <div id="alinhamento1">
                 <div>
                     <h1 id="logo">LOGO</h1>
                 </div>
                 <div>
                     <ul>
-                        <li id="home">Home</li>
+                        <a href="index.php" id="home"><li>Home</li></a>
                         <a href="sobre.php" id="sobre"><li>Sobre</li></a>
-                        <a href="portifolio.php" id="portifolio"><li>Portifólio</li></a>
-                        <a href="" id="contato" id="contato"><li>Contato</li></a>
+                        <a href="" id="portifolio"><li>Portifólio</li></a>
+                        <a href=""><li>Contato</li></a>
                     </ul>
                 </div>
                 <div>
@@ -32,3 +42,6 @@
                 </div>
             </article>
         </section>
+    </header>
+</body>
+</html>

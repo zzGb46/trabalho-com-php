@@ -1,0 +1,180 @@
+#header-sobre1{
+    background-color: #1A202C;
+    background-position: fixed;
+    background-repeat: no-repeat;
+}
+
+
+#alinhamento-sobre1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 50px;
+}
+#logo-sobre1{
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+}
+.ul-sobre1{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    transition: all 1s ease-in-out;
+}
+#home-sobre1{
+    text-decoration: none;
+    color: white;
+}
+#sobre-sobre1{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+#portifolio-sobre1{
+    text-decoration: none;
+    color: white;
+}
+#contato-sobre1{
+    text-decoration: none;
+    color: white;
+}
+#botao-sobre1{
+    margin: 10px;
+    background-color: #1A202C;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+}
+#alinhamento-sobre1{
+    display: flex;
+    justify-content: space-evenly;
+    margin: -50px;
+    padding: 100px;
+    color: white;
+    
+}
+#titu-sobre1{
+    width: 2000px;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+#para-sobre1{
+    width: 2000px;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+#video{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+#imgVideo{
+    width: 4000px;
+    height: 500px;
+    box-shadow: 20px 20px 10px grey;
+}
+#titu-sobre2{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+}
+#alinhamento-sobre2{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
+#alinhamento-sobre3{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+#img-sobre1{
+    background-color: #CED7E4;
+    height: 80px;
+    padding: 15px;
+    border-radius: 20px;
+}
+#titu-sobre3{
+font-size: 24px;
+font-family: "Poppins", sans-serif;
+}
+#para-sobre2{
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+}
+#para-sobre3{
+    text-align: center;
+    width: 400px;
+}
+#conheca{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    color: #486284;
+}
+#alinhamento4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: "Poppins", sans-serif;
+}
+
+#div3{
+    display: flex;
+    gap: 200px;
+    margin: 30px;
+}
+
+#equipes{
+    background-color: #CED7E4;
+    width: 200px;
+    box-shadow: 10px 10px 5px #98c3cd;
+    color: white;
+}
+
+#alinhamento6{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+#nome{
+    display: flex;
+    justify-content: center;
+}
+
+#alinhamento5{
+margin: 20px;
+}
+
+#segundaParte{
+    display: flex;
+    gap: 100px;
+}
+#botao1{
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    margin: 5px;
+}
+#link{
+    display: flex;
+    background-color: #8B8B8B;
+    width: 90px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+
+
+
+
+

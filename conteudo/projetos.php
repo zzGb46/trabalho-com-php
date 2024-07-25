@@ -13,31 +13,31 @@
                     </div>
                     <div id="grid1">
                         <div>
-                            <img src="foto/mobile.png" id="grid">
+                            <img src="img/mobile.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/note.png" id="grid">
+                            <img src="img/note.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/mobile.png" id="grid">
+                            <img src="img/mobile.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/note.png" id="grid">
+                            <img src="img/note.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/mobile.png" id="grid">
+                            <img src="img/mobile.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/note.png" id="grid">
+                            <img src="img/note.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/mobile.png" id="grid">
+                            <img src="img/mobile.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/note.png" id="grid">
+                            <img src="img/note.png" id="grid">
                         </div>
                         <div>
-                            <img src="foto/mobile.png" id="grid">
+                            <img src="img/mobile.png" id="grid">
                         </div>
                     </div>
                 </div>
