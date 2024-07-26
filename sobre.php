@@ -17,16 +17,16 @@
                 </div>
                 <div>
                     <ul class="ul-sobre1">
-                        <a href="index.php" id="home-sobre1">
+                        <a href="index.php" id="home-sobre1" class="hovers">
                             <li>Home</li>
                         </a>
-                        <a href="sobre.php" id="sobre-sobre1">
+                        <a href="sobre.php" id="sobre-sobre1" class="hovers">
                             <li>Sobre</li>
                         </a>
-                        <a href="" id="portifolio-sobre1">
+                        <a href="portifolio.php" id="portifolio-sobre1" class="hovers">
                             <li>Portifólio</li>
                         </a>
-                        <a href="" id="contato-sobre1">
+                        <a href="portifolio.php" id="contato-sobre1" class="hovers">
                             <li>Contato</li>
                         </a>
                     </ul>
@@ -40,12 +40,14 @@
             <article>
                 <div id="alinhamento-sobre1">
                     <div>
+                        <div id="alinhamento-sobre4">
                         <h1 id="titu-sobre1">Transformando ideias em experiências digitais extraordinárias
                             New Dev Company,onde a inovação encontra o código!</h1>
                         <p id="para-sobre1">A New Dev Company é uma agência de desenvolvimento web. Fundada em 2024, Por
                             Alunos da Instituição de Ensino Senac. A agência se dedica em fornecer Soluções Inovadoras e
                             de Alta Qualidade De diversos segmentos, visando sempre tendências e necessidades do
                             mercado.</p>
+                        </div>
                     </div>
                     </div>
             </article>
@@ -181,7 +183,77 @@
                 </div>
             </article>
         </section>
+
+        <section>
+            <article>
+                <div id="alinhamento16">
+                    <div id="div18">
+                        <h1 id="titu11">O que fazemos</h1>
+                        <p id="para9">Investimos tempo para entender as necessidades e metas de cada cliente.</p>
+                        <button id="botao7">COMECE UM PROJETO</button>
+                    </div>
+                    <div>
+                        <div id="alinhamento17">
+                            <div id="alinhamento18">
+                                <div id="alinhamento19">
+                                    <div id="div17">
+                                        <img src="img/desenvolvimento.png" id="foto4">
+                                        <h2>Desenvolvimento de Sites</h2>
+                                        <p id="para8">Lorem ipsum dolor sit amet. Et temporibus cumque sed deserunt et
+                                            nihil
+                                            dignissimos rem
+                                            iusto
+                                            omnis. </p>
+                                    </div>
+                                    <div id="div17">
+                                        <img src="img/php.png">
+                                        <h2>Desenvolvimento de Sistema</h2>
+                                        <p id="para8">Lorem ipsum dolor sit amet. Et temporibus cumque sed deserunt et
+                                            nihil
+                                            dignissimos rem
+                                            iusto omnis. </p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div id="div17">
+                                        <img src="img/react.png">
+                                        <h1>Desenvolvimento Mobile</h1>
+                                        <p id="para8">Lorem ipsum dolor sit amet. Et temporibus cumque sed deserunt et
+                                            nihil dignissimos
+                                            rem iusto omnis. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </section>
     </main>
+    <footer>
+        <div id="alinhamento11">
+            <div id="div14">
+                <h1>LOGO</h1>
+                <h2>Atendimento</h2>
+                <p>newdevcompany20@gmail.com</p>
+                <p>+11 55 97652-8219</p>
+                <img src="img/gitzin.png" id="fotos">
+                <img src="img/linkeeee.png" id="fotos">
+            </div>
+            <div id="div14">
+                <h1>Links</h1>
+                <p>Home</p>
+                <p>Sobre</p>
+                <p>Portifólio</p>
+                <p>Contato</p>
+            </div>
+            <div id="div14">
+                <h1>Localização</h1>
+                <p>Av. Marechal Tito, 1500</p>
+                <h2 id="titu9">Google Maps</h2>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>

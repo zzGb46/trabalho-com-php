@@ -4,8 +4,8 @@
                     <h2>Atendimento</h2>
                     <p>newdevcompany20@gmail.com</p>
                     <p>+11 55 97652-8219</p>
-                    <img src="foto/gitzin.png" id="fotos">
-                    <img src="foto/linkeeee.png" id="fotos">
+                    <img src="img/gitzin.png" id="fotos">
+                    <img src="img/linkeeee.png" id="fotos">
                 </div>
                 <div id="div14">
                     <h1>Links</h1>

@@ -18,7 +18,7 @@
         </section>
         <section>
             <article>
-                <div id="alinhamento2">
+                <div id="alinhamento2" class="alinhamento-responsivo1">
                     <div>
                         <h1 id="titu1">Lorem Ipsum Neque porro qui dolorem </h1>
                         <p id="para1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

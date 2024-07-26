@@ -9,7 +9,7 @@
                                 tempor
                                 incididunt ut labore et. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut
                                 labore et. Lorem ipsum dolor sit amet..”</p>
-                            <img src="foto/estrelas.png">
+                            <img src="img/estrelas.png">
                             <h1 id="titu8">NOME DA PESSOA</h1>
                         </div>
                         <div id="div13">
@@ -17,7 +17,7 @@
                                 tempor
                                 incididunt ut labore et. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut
                                 labore et. Lorem ipsum dolor sit amet..”</p>
-                            <img src="foto/estrelas.png">
+                            <img src="img/estrelas.png">
                             <h1 id="titu8">NOME DA PESSOA</h1>
                         </div>
                         <div id="div13">
@@ -25,7 +25,7 @@
                                 tempor
                                 incididunt ut labore et. Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut
                                 labore et. Lorem ipsum dolor sit amet..”</p>
-                            <img src="foto/estrelas.png">
+                            <img src="img/estrelas.png">
                             <h1 id="titu8">NOME DA PESSOA</h1>
                         </div>
                     </div>
