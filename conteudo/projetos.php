@@ -11,6 +11,8 @@
                             impactos significativos.
                         </p>
                     </div>
+                    <div id="alinhamentoRespo">
+                    <div>
                     <div id="grid1">
                         <div>
                             <img src="img/mobile.png" id="grid">
@@ -39,6 +41,8 @@
                         <div>
                             <img src="img/mobile.png" id="grid">
                         </div>
+                    </div>
+                    </div>
                     </div>
                 </div>
             </article>
